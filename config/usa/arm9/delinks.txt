@@ -77,6 +77,10 @@ src/auto/func_020faec8.c:
     complete
     .text       start:0x020faec8 end:0x020faf40
 
+src/auto/func_02101618.c:
+    complete
+    .text       start:0x02101618 end:0x02101708
+
 src/auto/func_021078fc.c:
     complete
     .text       start:0x021078fc end:0x02107990
