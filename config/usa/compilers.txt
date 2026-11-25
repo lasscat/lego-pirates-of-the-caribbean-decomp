@@ -1,0 +1,2 @@
+# Per-file compiler overrides. Format: <source path> <mwccarm version> [extra flags]
+# Files not listed here use mwcc_version / opt from game.toml. See docs/compiler.md.

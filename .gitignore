@@ -1,0 +1,38 @@
+build/
+.vscode/
+venv/
+
+# Game data: never committed
+*.nds
+*bios.bin
+*.sav
+extract/*/
+
+# Build output
+/m2ctx
+*.xMAP
+objdiff.json
+build.ninja
+.ninja_log*
+.ninja_lock
+.ninja_deps
+/compile_commands.json
+/*.o
+/*.d
+
+# Tool binaries (tools/download_tool.py fetches them)
+/objdiff-cli
+/objdiff-cli.exe
+/dsd
+/dsd.exe
+/dsd-dsi.exe
+/dsd.pdb
+/wibo
+/sjiswrap.exe
+
+# Optional third-party tools (see docs/automation.md)
+/tools/m2c/
+/tools/decomp-permuter/
+/tools/mwccarm/
+__pycache__/
+.DS_Store
