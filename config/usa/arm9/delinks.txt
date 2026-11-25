@@ -4,3 +4,8 @@
     .ctor       start:0x02140704 end:0x021407a8 kind:rodata align:4
     .data       start:0x021407c0 end:0x0214e400 kind:data align:32
     .bss        start:0x0214e400 end:0x02173220 kind:bss align:32
+
+src/auto/func_0201c92c.cpp:
+    complete
+    .text       start:0x0201c92c end:0x0201c93c
+
