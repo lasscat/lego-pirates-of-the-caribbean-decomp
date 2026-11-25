@@ -14,3 +14,7 @@ src/auto/func_0212c874.c:
     .text       start:0x0212c874 end:0x0212c890
 
 
+
+src/auto/func_021346e0.c:
+    complete
+    .text       start:0x021346e0 end:0x02134700
