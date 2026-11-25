@@ -67,6 +67,10 @@ src/auto/func_0212c874.c:
 
 
 
+src/auto/func_0212e49c.c:
+    complete
+    .text       start:0x0212e49c end:0x0212e50c
+
 src/auto/func_02131ccc.c:
     complete
     .text       start:0x02131ccc end:0x02131d34
