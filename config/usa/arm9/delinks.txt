@@ -53,6 +53,10 @@ src/auto/fnFlash_BuildKeyframeFromBinary.cpp:
     complete
     .text       start:0x020c10d4 end:0x020c10f0
 
+src/auto/func_021078fc.c:
+    complete
+    .text       start:0x021078fc end:0x02107990
+
 src/auto/func_0212c874.c:
     complete
     .text       start:0x0212c874 end:0x0212c890
