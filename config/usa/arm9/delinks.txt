@@ -25,6 +25,10 @@ src/auto/func_0203c858.c:
     complete
     .text       start:0x0203c858 end:0x0203c8c0
 
+src/auto/func_02054570.c:
+    complete
+    .text       start:0x02054570 end:0x020545f8
+
 src/auto/func_02056f14.c:
     complete
     .text       start:0x02056f14 end:0x02056fb0
