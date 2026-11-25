@@ -69,6 +69,10 @@ src/auto/func_0209a600.c:
     complete
     .text       start:0x0209a600 end:0x0209a6f4
 
+src/auto/func_020be608.c:
+    complete
+    .text       start:0x020be608 end:0x020be70c
+
 src/auto/fnFlash_BuildKeyframeFromBinary.cpp:
     complete
     .text       start:0x020c10d4 end:0x020c10f0
