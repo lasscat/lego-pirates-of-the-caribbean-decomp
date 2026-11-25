@@ -23,6 +23,10 @@ src/auto/func_0212c874.c:
 
 
 
+src/auto/func_02131ccc.c:
+    complete
+    .text       start:0x02131ccc end:0x02131d34
+
 src/auto/func_021346e0.c:
     complete
     .text       start:0x021346e0 end:0x02134700
