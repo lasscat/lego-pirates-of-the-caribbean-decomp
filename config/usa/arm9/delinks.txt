@@ -5,6 +5,10 @@
     .data       start:0x021407c0 end:0x0214e400 kind:data align:32
     .bss        start:0x0214e400 end:0x02173220 kind:bss align:32
 
+src/auto/func_0200594c.c:
+    complete
+    .text       start:0x0200594c end:0x020059bc
+
 src/auto/func_0200946c.cpp:
     complete
     .text       start:0x0200946c end:0x020094a0
